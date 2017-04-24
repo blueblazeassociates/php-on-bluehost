@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+exec /usr/php/54/usr/bin/php-cli -c ~/.php/php54.ini "$@"

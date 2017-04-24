@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+exec /opt/php70/bin/php -c ~/.php/php70.ini "$@"
